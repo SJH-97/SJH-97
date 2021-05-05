@@ -5,6 +5,6 @@
 ---
 
 ### :earth_asia: Get In Touch! 
-See below for where you can find me!
+
 
 
