@@ -1,3 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Sam. 
 
-### My name is Sam
+### I'm a Junior Web Developer currently enrolled at _Nology 
+
+
