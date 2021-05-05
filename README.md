@@ -2,6 +2,7 @@
 
 ### I'm a Junior Web Developer currently enrolled in the Java and Cloud Engineering course at _Nology 
 
-===== Contact Me. 
+### :earth_asia: Get In Touch! 
+See below for where you can find me!
 
 
