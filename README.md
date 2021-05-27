@@ -6,7 +6,7 @@
 Say hello!
 <br><br>
 
-<a href="https://www.linkedin.com/in/SJHarrison-97/" target="_blank"><img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sharrison97/" target="_blank"><img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br><br>
 <h3>
 Technology Stack
