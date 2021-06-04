@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-🌱  <br><br> I’m Sam, a Junior Web Developer currently studying Java and Cloud Engineering at Nology, Bristol.
+🌱  <br><br> I’m Sam, a Junior Web Developer currently studying Java and Cloud Engineering at _nology
 <br>
 <br>
 Say hello!
