@@ -21,7 +21,7 @@ Technology Stack
 
 ## &#x1f4c8; GitHub stats
 
-<a href="https://github.com/SJH-97">
+<a href="https://github.com/SJH-97/SJH-97">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH-97&theme=dark&layout=compact" />
 </a>
 
